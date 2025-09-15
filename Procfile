@@ -1,1 +1,1 @@
-web: python standalone_bot.py
+web: python railway_fix.py
