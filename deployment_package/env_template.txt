@@ -1,0 +1,12 @@
+# Environment Variables for Production
+# Copy this to your hosting platform's environment variables
+
+TELEGRAM_BOT_TOKEN=7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
+ENCRYPTION_KEY=PolyFocus2024SecureKey32Char
+POLYMARKET_API_KEY=your_polymarket_api_key_here
+LIFI_API_KEY=your_lifi_api_key_here
+GOOGLE_TRANSLATE_API_KEY=your_google_translate_api_key_here
+DATABASE_URL=sqlite:///./data/polymarket_bot.db
+HOST=0.0.0.0
+PORT=8000
+DEBUG=False

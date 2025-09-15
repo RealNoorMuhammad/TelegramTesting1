@@ -1,0 +1,40 @@
+{
+  "name": "polyfocus-bot",
+  "description": "PolyFocus Telegram Trading Bot for Polymarket",
+  "repository": "https://github.com/yourusername/polymarket-bot",
+  "logo": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=PF",
+  "keywords": ["telegram", "bot", "polymarket", "trading", "crypto"],
+  "env": {
+    "TELEGRAM_BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "required": true
+    },
+    "ENCRYPTION_KEY": {
+      "description": "32-character encryption key for private keys",
+      "required": true
+    },
+    "POLYMARKET_API_KEY": {
+      "description": "Polymarket API Key (optional)",
+      "required": false
+    },
+    "LIFI_API_KEY": {
+      "description": "LI.FI Bridge API Key (optional)",
+      "required": false
+    },
+    "GOOGLE_TRANSLATE_API_KEY": {
+      "description": "Google Translate API Key (optional)",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
