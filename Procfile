@@ -1,1 +1,1 @@
-web: python production_bot.py
+web: python standalone_bot.py
