@@ -2,9 +2,9 @@
 
 ## ✅ Your Bot is Ready!
 
-**Bot Token**: 7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E  
-**Bot Link**: https://t.me/Polymarketsolanabot  
-**Bot Username**: @Polymarketsolanabot
+**Bot Token**: 8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE  
+**Bot Link**: https://t.me/GLtestingsolbot  
+**Bot Username**: @GLtestingsolbot
 
 ## 🚀 Quick Deployment Steps
 

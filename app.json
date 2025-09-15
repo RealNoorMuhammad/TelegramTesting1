@@ -1,12 +1,13 @@
 {
-  "name": "polyfocus-bot",
-  "description": "PolyFocus Telegram Trading Bot for Polymarket",
+  "name": "gl-testing-bot",
+  "description": "GL Testing Telegram Trading Bot for Polymarket",
   "repository": "https://github.com/yourusername/polymarket-bot",
   "logo": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=PF",
   "keywords": ["telegram", "bot", "polymarket", "trading", "crypto"],
   "env": {
     "TELEGRAM_BOT_TOKEN": {
       "description": "Your Telegram Bot Token",
+      "value": "8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE",
       "required": true
     },
     "ENCRYPTION_KEY": {

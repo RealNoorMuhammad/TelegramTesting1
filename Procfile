@@ -1,1 +1,1 @@
-web: python railway_fix.py
+web: python gl_testing_bot.py

@@ -1,9 +1,9 @@
 # PolyFocus Bot - Quick Deployment Guide
 
 ## Your Bot Information
-- **Bot Token**: 7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
-- **Bot Link**: https://t.me/Polymarketsolanabot
-- **Bot Username**: @Polymarketsolanabot
+- **Bot Token**: 8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE
+- **Bot Link**: https://t.me/GLtestingsolbot
+- **Bot Username**: @GLtestingsolbot
 
 ## Why Deploy to Cloud?
 Since you're in Pakistan, Telegram API might be blocked locally. Deploying to a cloud server will solve this completely!
@@ -15,8 +15,8 @@ Since you're in Pakistan, Telegram API might be blocked locally. Deploying to a 
 3. **Create new project** → "Deploy from GitHub repo"
 4. **Upload your code** to GitHub first
 5. **Set environment variables**:
-   - TELEGRAM_BOT_TOKEN=7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
-   - ENCRYPTION_KEY=PolyFocus2024SecureKey32Char
+   - TELEGRAM_BOT_TOKEN=8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE
+   - ENCRYPTION_KEY=GLTesting2024SecureKey32Char
 6. **Deploy** - Your bot will be live in minutes!
 
 ## Option 2: Heroku (Also Free)
@@ -26,7 +26,7 @@ Since you're in Pakistan, Telegram API might be blocked locally. Deploying to a 
 3. **Create app**: `heroku create your-bot-name`
 4. **Set environment variables**:
    ```bash
-   heroku config:set TELEGRAM_BOT_TOKEN=7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
+   heroku config:set TELEGRAM_BOT_TOKEN=8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE
    heroku config:set ENCRYPTION_KEY=PolyFocus2024SecureKey32Char
    ```
 5. **Deploy**: `git push heroku main`
@@ -43,7 +43,7 @@ Upload these files to GitHub:
 
 ## Test Your Deployed Bot
 
-1. **Go to**: https://t.me/Polymarketsolanabot
+1. **Go to**: https://t.me/GLtestingsolbot
 2. **Send**: /start
 3. **Test features**: Use all menu buttons
 4. **Search markets**: Send any text
@@ -53,7 +53,7 @@ Upload these files to GitHub:
 Set these in your hosting platform:
 
 ```
-TELEGRAM_BOT_TOKEN=7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
+TELEGRAM_BOT_TOKEN=8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE
 ENCRYPTION_KEY=PolyFocus2024SecureKey32Char
 POLYMARKET_API_KEY=your_polymarket_api_key_here
 LIFI_API_KEY=your_lifi_api_key_here

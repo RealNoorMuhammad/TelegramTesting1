@@ -4,9 +4,9 @@
 
 Your Telegram bot has been successfully created and configured:
 
-**🤖 Bot Username:** @Polymarketsolanabot  
-**🔗 Bot Link:** https://t.me/Polymarketsolanabot  
-**🔑 Bot Token:** 7822967965:AAGMau39Np0kF0brpKz_qYIdgBBzXeZzQ5E
+**🤖 Bot Username:** @GLtestingsolbot  
+**🔗 Bot Link:** https://t.me/GLtestingsolbot  
+**🔑 Bot Token:** 8368872230:AAFp_NMUW9Ym1qS_qqhHtvJmOIObZr8l_GE
 
 ## 🚀 How to Start Your Bot
 
@@ -27,7 +27,7 @@ start /B python start_bot.py
 
 ## 📱 Testing Your Bot
 
-1. **Go to Telegram**: https://t.me/Polymarketsolanabot
+1. **Go to Telegram**: https://t.me/GLtestingsolbot
 2. **Start the bot**: Send `/start`
 3. **Test features**: Use the menu buttons to explore all features
 

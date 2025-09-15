@@ -1,6 +1,9 @@
-# PolyFocus 1.0.0 - Telegram Trading Bot
+# GL Testing Bot 1.0.0 - Telegram Trading Bot
 
 A comprehensive Telegram trading bot for Polymarket with advanced features including copy trading, referral system, multi-language support, and cross-chain bridging.
+
+**Bot Username**: @GLtestingsolbot  
+**Bot Link**: https://t.me/GLtestingsolbot
 
 ## 🚀 Features
 
@@ -264,4 +267,4 @@ This bot is for educational and informational purposes only. Trading involves ri
 
 ---
 
-**PolyFocus 1.0.0** - Your gateway to decentralized prediction markets! 🚀
+**GL Testing Bot 1.0.0** - Your gateway to decentralized prediction markets! 🚀
