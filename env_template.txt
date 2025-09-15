@@ -1,0 +1,30 @@
+# Copy this file to .env and fill in your actual values
+
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+TELEGRAM_WEBHOOK_URL=https://yourdomain.com/webhook
+
+# Database Configuration
+DATABASE_URL=sqlite:///./data/polymarket_bot.db
+ENCRYPTION_KEY=your_32_character_encryption_key_here
+
+# Polymarket API Configuration
+POLYMARKET_GAMMA_API_URL=https://gamma-api.polymarket.com
+POLYMARKET_DATA_API_URL=https://data-api.polymarket.com
+POLYMARKET_CLOB_API_URL=https://clob.polymarket.com
+POLYMARKET_API_KEY=your_polymarket_api_key_here
+
+# LI.FI Bridge API
+LIFI_API_URL=https://li.quest/v1
+LIFI_API_KEY=your_lifi_api_key_here
+
+# Google Translate API
+GOOGLE_TRANSLATE_API_KEY=your_google_translate_api_key_here
+
+# WebSocket Configuration
+WEBSOCKET_URL=wss://clob.polymarket.com/ws
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=8000
+DEBUG=True
